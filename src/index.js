@@ -1,59 +1,28 @@
 const knex = require('../config/database');
-
-function getProvincias() {
-    return knex.select().from('municipios').select()
-        .then(rows => {
-            return rows;
-        })
-        .catch(error => {
-            console.error(error);
-        });
-}
-
-function getDocumentos() {
-    return knex.select().from('documentos').select('local').distinct()
-        .then(rows => {
-            return rows;
-        })
-        .catch(error => {
-            console.error(error);
-        });
-}
+const json = require('../file-json/comuna.json')
 
 async function migrateData(trx) {
-
-    Promise.all([
-        getProvincias(),
-        getDocumentos()
-    ])
-        .then(async results => {
-
-            const [municipios, documentos] = results;
-
-            for (const doc of documentos) {
-
-                let municipio = municipios.find((item) => item.id == doc.local)
-
-                await knex
-                    .from('documentos')
-                    .transacting(trx)
-                    .where({
-                        local: doc.local,
-                    })
-                    .update({
-                        local: Number(municipio.idProvincia),
-                    })
-            }
-
-        })
-        .catch(async error => {
-            console.error(error);
-            await trx.rollback();
-        })
-        .finally(async () => {
-            knex.destroy();
-            await trx.commit();
-        });
+ 
+    let cont = 0
+    for (const iterator of json) {
+        cont = cont + 1
+        trx.into('comunas')
+            .insert({
+                id: cont++,
+                ...iterator,
+                description: 'Criado automaticamente pelo sistema',
+                created_at: new Date(),
+                updated_at: new Date(),
+            })
+            .then(() => {
+                trx.commit();
+                console.log('Insert successful!');
+            })
+            .catch(() => {
+                trx.rollback();
+                console.log(' - Insert error!', iterator);
+            });
+    } 
 
 }
 
@@ -62,17 +31,14 @@ async function main() {
     const trx = await knex.transaction();
 
     try {
-        await migrateData(trx)
-        // await trx.rollback();
-    } catch (err) {
-        // await trx.rollback();
-        console.log(err);
-        process.exit(1);
+        await migrateData(trx) 
+    } catch (err) { 
+        console.log(err); 
     }
     finally {
+        console.log('Fim da migração da actualização dos dados !!!')
     }
 }
 
-console.log('Fim da migração da actualização dos dados !!!')
 
 main();
