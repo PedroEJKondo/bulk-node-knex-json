@@ -1,4 +1,4 @@
-# Node, Knex e MySql2
+# Node, Knex e JSON
 
 Saiba como usar o node para actualizar dados da base de dados e corrigir dados da mesma.
 
@@ -8,7 +8,7 @@ Saiba como usar o node para actualizar dados da base de dados e corrigir dados d
 Clonar o projecto:
 
 ```
-git clone https://github.com/PedroEJKondo/node-knex-mysql2.git
+git clone https://github.com/PedroEJKondo/bulk-node-knex-json.git
 
 ```
 
