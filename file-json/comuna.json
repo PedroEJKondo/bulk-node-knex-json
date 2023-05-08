@@ -1,0 +1,4442 @@
+[
+	{
+		"id_user" : 1,
+		"idMunicipio" : 1,
+		"name" : "Bela vista",
+		"type" : "commune",
+		"latitude" : -7.810397000,
+		"longitude" : 13.823495000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 1,
+		"name" : "Tabi",
+		"type" : "commune",
+		"latitude" : -8.134900000,
+		"longitude" : 13.253787000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 1,
+		"name" : "Ambriz",
+		"type" : "commune",
+		"latitude" : -7.844312000,
+		"longitude" : 13.106493000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 2,
+		"name" : "Bula atumba",
+		"type" : "commune",
+		"latitude" : -8.675104000,
+		"longitude" : 14.795537000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 2,
+		"name" : "Quiage",
+		"type" : "commune",
+		"latitude" : -8.506814000,
+		"longitude" : 14.950941000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 3,
+		"name" : "Barra do dande",
+		"type" : "commune",
+		"latitude" : -8.471453000,
+		"longitude" : 13.368697000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 3,
+		"name" : "Caxito",
+		"type" : "commune",
+		"latitude" : -8.582750000,
+		"longitude" : 13.660079000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 3,
+		"name" : "Quicabo",
+		"type" : "commune",
+		"latitude" : -8.309739000,
+		"longitude" : 13.834244000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 3,
+		"name" : "Mabubas",
+		"type" : "commune",
+		"latitude" : -8.530272000,
+		"longitude" : 13.691427000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 3,
+		"name" : "Úcua",
+		"type" : "commune",
+		"latitude" : -8.649979000,
+		"longitude" : 14.160362000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 4,
+		"name" : "Piri",
+		"type" : "commune",
+		"latitude" : -8.532154000,
+		"longitude" : 14.437301000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 4,
+		"name" : "Quibaxe",
+		"type" : "commune",
+		"latitude" : -8.497207000,
+		"longitude" : 14.590964000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 4,
+		"name" : "Paredes",
+		"type" : "commune",
+		"latitude" : -8.607591000,
+		"longitude" : 14.667591000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 4,
+		"name" : "Coxe",
+		"type" : "commune",
+		"latitude" : -8.466646000,
+		"longitude" : 16.924578000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 5,
+		"name" : "Gombe",
+		"type" : "commune",
+		"latitude" : -8.122864000,
+		"longitude" : 14.278240000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 5,
+		"name" : "Cage",
+		"type" : "commune",
+		"latitude" : -8.316645000,
+		"longitude" : 14.341245000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 5,
+		"name" : "Muxaluando",
+		"type" : "commune",
+		"latitude" : -8.123610000,
+		"longitude" : 14.286706000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 5,
+		"name" : "Canacassala",
+		"type" : "commune",
+		"latitude" : -8.164292000,
+		"longitude" : 14.116421000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 5,
+		"name" : "Quixico",
+		"type" : "commune",
+		"latitude" : -7.986206000,
+		"longitude" : 14.418854000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 5,
+		"name" : "Quicunzo",
+		"type" : "commune",
+		"latitude" : -8.194054000,
+		"longitude" : 14.472717000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 5,
+		"name" : "Zala",
+		"type" : "commune",
+		"latitude" : -7.870781000,
+		"longitude" : 13.966160000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 6,
+		"name" : "Pango aluquém",
+		"type" : "commune",
+		"latitude" : -8.712356000,
+		"longitude" : 14.460733000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 7,
+		"name" : "Barra do cuanza",
+		"type" : "commune",
+		"latitude" : -9.319734000,
+		"longitude" : 13.155850000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 7,
+		"name" : "Morro dos veados",
+		"type" : "district",
+		"latitude" : -8.955972000,
+		"longitude" : 13.126296000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 7,
+		"name" : "Kilamba",
+		"type" : "district",
+		"latitude" : -8.998527000,
+		"longitude" : 13.266384000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 7,
+		"name" : " cabolombo",
+		"type" : "district",
+		"latitude" : -8.923537000,
+		"longitude" : 13.199828000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 7,
+		"name" : "Quenguela",
+		"type" : "district",
+		"latitude" : -8.802199000,
+		"longitude" : 13.240406000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 7,
+		"name" : "Vila verde",
+		"type" : "district",
+		"latitude" : -14.907646000,
+		"longitude" : 13.453558000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 7,
+		"name" : "Ramiros",
+		"type" : "district",
+		"latitude" : -9.059994000,
+		"longitude" : 13.043533000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 8,
+		"name" : "Kikolo",
+		"type" : "district",
+		"latitude" : -8.789650000,
+		"longitude" : 13.332658000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 8,
+		"name" : "Mulenvos de baixo",
+		"type" : "district",
+		"latitude" : -8.843648000,
+		"longitude" : 13.336084000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 8,
+		"name" : "Sequele",
+		"type" : "district",
+		"latitude" : -8.832539000,
+		"longitude" : 13.423457000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 8,
+		"name" : "Cacuaco",
+		"type" : "district",
+		"latitude" : -8.828238000,
+		"longitude" : 13.433754000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 8,
+		"name" : "Funda",
+		"type" : "commune",
+		"latitude" : -8.844810000,
+		"longitude" : 13.548637000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 9,
+		"name" : "Tala hadi",
+		"type" : "district",
+		"latitude" : -8.847959000,
+		"longitude" : 13.200258000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 9,
+		"name" : "Cazenga",
+		"type" : "district",
+		"latitude" : -8.823575000,
+		"longitude" : 13.308093000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 9,
+		"name" : "Kalawenda",
+		"type" : "district",
+		"latitude" : -14.918608000,
+		"longitude" : 13.529935000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 9,
+		"name" : "11 de novembro",
+		"type" : "district",
+		"latitude" : -14.925345000,
+		"longitude" : 13.481261000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 9,
+		"name" : "Hoji ya henda",
+		"type" : "district",
+		"latitude" : -8.808181000,
+		"longitude" : 13.290722000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 9,
+		"name" : "Kima kieza",
+		"type" : "district",
+		"latitude" : -8.848050000,
+		"longitude" : 13.233089000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 10,
+		"name" : "Cabiri",
+		"type" : "commune",
+		"latitude" : -8.920868000,
+		"longitude" : 13.665226000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 10,
+		"name" : "Bom jesus",
+		"type" : "commune",
+		"latitude" : -9.131265000,
+		"longitude" : 13.565060000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 10,
+		"name" : "Caculo cahango",
+		"type" : "commune",
+		"latitude" : -9.034486000,
+		"longitude" : 13.388125000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 10,
+		"name" : "Bela vista",
+		"type" : "district",
+		"latitude" : -8.862347000,
+		"longitude" : 13.320229000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 10,
+		"name" : "Catete",
+		"type" : "district",
+		"latitude" : -9.109986000,
+		"longitude" : 13.689546000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 10,
+		"name" : "Quiminha",
+		"type" : "commune",
+		"latitude" : -8.959401000,
+		"longitude" : 13.982490000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 10,
+		"name" : "Cassoneca",
+		"type" : "commune",
+		"latitude" : -9.243535000,
+		"longitude" : 13.852925000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 11,
+		"name" : " palanca",
+		"type" : "district",
+		"latitude" : -8.860704000,
+		"longitude" : 13.266070000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 11,
+		"name" : "Nova vida",
+		"type" : "district",
+		"latitude" : -8.906826000,
+		"longitude" : 13.232010000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 11,
+		"name" : "Golfe",
+		"type" : "district",
+		"latitude" : -8.961021000,
+		"longitude" : 13.254482000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 11,
+		"name" : "Sapú",
+		"type" : "district",
+		"latitude" : -8.933903000,
+		"longitude" : 13.308022000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 12,
+		"name" : "Ngola kiluanje",
+		"type" : "district",
+		"latitude" : -8.792220000,
+		"longitude" : 13.329045000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 12,
+		"name" : "Maianga",
+		"type" : "district",
+		"latitude" : -8.826776000,
+		"longitude" : 13.230391000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 12,
+		"name" : "Samba",
+		"type" : "district",
+		"latitude" : -8.838791000,
+		"longitude" : 13.212125000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 12,
+		"name" : "Neves bendinha",
+		"type" : "district",
+		"latitude" : -8.843738000,
+		"longitude" : 13.260873000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 12,
+		"name" : "Sambizanga",
+		"type" : "district",
+		"latitude" : -8.804356000,
+		"longitude" : 13.271513000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 12,
+		"name" : "Ingombota",
+		"type" : "district",
+		"latitude" : -8.800208000,
+		"longitude" : 13.255358000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 12,
+		"name" : "Rangel",
+		"type" : "district",
+		"latitude" : -8.825264000,
+		"longitude" : 13.266102000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 13,
+		"name" : "Quixinge",
+		"type" : "commune",
+		"latitude" : -9.386128000,
+		"longitude" : 13.266652000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 13,
+		"name" : "Mumbondo",
+		"type" : "commune",
+		"latitude" : -10.199084000,
+		"longitude" : 14.120994000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 13,
+		"name" : "Cabo ledo",
+		"type" : "commune",
+		"latitude" : -9.655667000,
+		"longitude" : 13.238888000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 13,
+		"name" : "Muxima",
+		"type" : "commune",
+		"latitude" : -9.517931000,
+		"longitude" : 13.957254000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 13,
+		"name" : "Demba chio",
+		"type" : "commune",
+		"latitude" : -9.332377000,
+		"longitude" : 13.074519000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 14,
+		"name" : "Talatona",
+		"type" : "district",
+		"latitude" : -8.935252000,
+		"longitude" : 13.233246000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 14,
+		"name" : "Lar do patriota",
+		"type" : "district",
+		"latitude" : -8.951990000,
+		"longitude" : 13.197780000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 14,
+		"name" : "Futungo de belas",
+		"type" : "district",
+		"latitude" : -8.893519000,
+		"longitude" : 13.178279000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 14,
+		"name" : "Cidade universitária",
+		"type" : "district",
+		"latitude" : -8.944544000,
+		"longitude" : 13.287826000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 14,
+		"name" : "Camama",
+		"type" : "district",
+		"latitude" : -8.940237000,
+		"longitude" : 13.264727000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 14,
+		"name" : "Mussulo",
+		"type" : "commune",
+		"latitude" : -8.987093000,
+		"longitude" : 13.034894000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 14,
+		"name" : "Benfica",
+		"type" : "district",
+		"latitude" : -8.944328000,
+		"longitude" : 13.163994000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 15,
+		"name" : "Kikolo",
+		"type" : "district",
+		"latitude" : -8.789650000,
+		"longitude" : 13.332658000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 15,
+		"name" : "Mulenvos de baixo",
+		"type" : "district",
+		"latitude" : -8.843648000,
+		"longitude" : 13.336084000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 15,
+		"name" : "Sequele",
+		"type" : "district",
+		"latitude" : -8.832539000,
+		"longitude" : 13.423457000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 15,
+		"name" : "Cacuaco",
+		"type" : "district",
+		"latitude" : -8.828238000,
+		"longitude" : 13.433754000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 15,
+		"name" : "Funda",
+		"type" : "commune",
+		"latitude" : -8.844810000,
+		"longitude" : 13.548637000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 16,
+		"name" : "Camame",
+		"type" : "commune",
+		"latitude" : -8.987968000,
+		"longitude" : 14.990909000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 16,
+		"name" : "Quilombo dos dembos",
+		"type" : "commune",
+		"latitude" : -8.910267000,
+		"longitude" : 14.726127000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 16,
+		"name" : "Cavunga",
+		"type" : "commune",
+		"latitude" : -7.633290000,
+		"longitude" : 14.265823000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 18,
+		"name" : "Samba cajú",
+		"type" : "commune",
+		"latitude" : -8.760476000,
+		"longitude" : 15.410695000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 18,
+		"name" : "Samba lucala",
+		"type" : "commune",
+		"latitude" : -9.154527000,
+		"longitude" : 15.240997000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 19,
+		"name" : "Dondo",
+		"type" : "commune",
+		"latitude" : -9.686374000,
+		"longitude" : 14.423203000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 19,
+		"name" : "Massangano",
+		"type" : "commune",
+		"latitude" : -9.626937000,
+		"longitude" : 14.256303000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 19,
+		"name" : "Dange ya menha",
+		"type" : "commune",
+		"latitude" : -9.473254000,
+		"longitude" : 14.564011000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 19,
+		"name" : "São pedro da quilemba",
+		"type" : "commune",
+		"latitude" : -9.660853000,
+		"longitude" : 14.543181000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 19,
+		"name" : "Zenza do itombe",
+		"type" : "commune",
+		"latitude" : -9.288970000,
+		"longitude" : 14.213964000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 20,
+		"name" : "Quiangombe",
+		"type" : "commune",
+		"latitude" : -9.048326000,
+		"longitude" : 15.116224000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 20,
+		"name" : "Lucala",
+		"type" : "commune",
+		"latitude" : -9.266133000,
+		"longitude" : 15.240250000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 21,
+		"name" : "Bolongongo",
+		"type" : "commune",
+		"latitude" : -8.464082000,
+		"longitude" : 15.248715000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 21,
+		"name" : "Terreiro",
+		"type" : "commune",
+		"latitude" : -8.433236000,
+		"longitude" : 15.106455000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 21,
+		"name" : "Quiquiemba",
+		"type" : "commune",
+		"latitude" : -8.854391000,
+		"longitude" : 13.824939000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 22,
+		"name" : "Banga",
+		"type" : "commune",
+		"latitude" : -8.728805000,
+		"longitude" : 15.169027000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 22,
+		"name" : "Cariamba",
+		"type" : "commune",
+		"latitude" : -8.597214000,
+		"longitude" : 15.199223000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 22,
+		"name" : "Aldeia nova",
+		"type" : "commune",
+		"latitude" : -8.614685000,
+		"longitude" : 15.086650000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 22,
+		"name" : "Caculo cabaça",
+		"type" : "commune",
+		"latitude" : -8.728805000,
+		"longitude" : 15.169027000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 23,
+		"name" : "Cêrca",
+		"type" : "commune",
+		"latitude" : -9.060006000,
+		"longitude" : 14.549072000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 23,
+		"name" : "Golungo alto",
+		"type" : "commune",
+		"latitude" : -9.138659000,
+		"longitude" : 14.773447000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 23,
+		"name" : "Cambondo",
+		"type" : "commune",
+		"latitude" : -9.163301000,
+		"longitude" : 14.665874000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 23,
+		"name" : "Quiluanje",
+		"type" : "commune",
+		"latitude" : -8.933290000,
+		"longitude" : 15.965823000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 24,
+		"name" : "Máua",
+		"type" : "commune",
+		"latitude" : -8.312584000,
+		"longitude" : 15.171888000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 24,
+		"name" : "Luinga",
+		"type" : "commune",
+		"latitude" : -8.467185000,
+		"longitude" : 15.607670000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 24,
+		"name" : "Tango",
+		"type" : "commune",
+		"latitude" : -8.094153000,
+		"longitude" : 15.635923000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 24,
+		"name" : "Camabatela",
+		"type" : "commune",
+		"latitude" : -8.188669000,
+		"longitude" : 15.374211000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 24,
+		"name" : "Bindo",
+		"type" : "commune",
+		"latitude" : -8.149957000,
+		"longitude" : 15.199157000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 25,
+		"name" : "Canhoca",
+		"type" : "commune",
+		"latitude" : -9.249205000,
+		"longitude" : 14.678244000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 25,
+		"name" : "Ndalatando",
+		"type" : "commune",
+		"latitude" : -9.298483000,
+		"longitude" : 14.914498000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 26,
+		"name" : "Benguela",
+		"type" : "commune",
+		"latitude" : -12.579005000,
+		"longitude" : 13.403712000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 27,
+		"name" : "Capupa",
+		"type" : "commune",
+		"latitude" : -12.603906000,
+		"longitude" : 13.401713000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 27,
+		"name" : "Cubal",
+		"type" : "commune",
+		"latitude" : -13.033333000,
+		"longitude" : 14.250000000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 27,
+		"name" : "Tumbulo",
+		"type" : "commune",
+		"latitude" : -12.605849000,
+		"longitude" : 13.401826000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 27,
+		"name" : "Iambala",
+		"type" : "commune",
+		"latitude" : -12.815213000,
+		"longitude" : 13.328891000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 28,
+		"name" : "Baía farta",
+		"type" : "commune",
+		"latitude" : -12.611955000,
+		"longitude" : 13.198708000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 28,
+		"name" : "Dombe grande",
+		"type" : "commune",
+		"latitude" : -12.942834000,
+		"longitude" : 13.093749000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 28,
+		"name" : "Calohanga",
+		"type" : "commune",
+		"latitude" : -12.580979000,
+		"longitude" : 13.414631000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 28,
+		"name" : "Equimina",
+		"type" : "commune",
+		"latitude" : -13.195765000,
+		"longitude" : 12.784991000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 29,
+		"name" : "Caimbambo",
+		"type" : "commune",
+		"latitude" : -13.025611000,
+		"longitude" : 14.005096000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 29,
+		"name" : "Catengue",
+		"type" : "commune",
+		"latitude" : -13.031908000,
+		"longitude" : 13.739433000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 29,
+		"name" : "Canhamela",
+		"type" : "commune",
+		"latitude" : -12.605849000,
+		"longitude" : 13.401826000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 29,
+		"name" : "Caiave",
+		"type" : "commune",
+		"latitude" : -12.605571000,
+		"longitude" : 13.399873000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 29,
+		"name" : "Viangombe",
+		"type" : "commune",
+		"latitude" : -12.605849000,
+		"longitude" : 13.401826000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 30,
+		"name" : "Praia bebé",
+		"type" : "commune",
+		"latitude" : -12.413814000,
+		"longitude" : 13.499815000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 30,
+		"name" : "Catumbela",
+		"type" : "commune",
+		"latitude" : -12.431596000,
+		"longitude" : 13.544673000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 30,
+		"name" : "Gama",
+		"type" : "commune",
+		"latitude" : -12.579386000,
+		"longitude" : 13.412041000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 30,
+		"name" : "Biópio",
+		"type" : "commune",
+		"latitude" : -12.468424000,
+		"longitude" : 13.743723000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 31,
+		"name" : "Bolonguera",
+		"type" : "commune",
+		"latitude" : -13.502288000,
+		"longitude" : 12.491565000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 31,
+		"name" : "Camuine",
+		"type" : "commune",
+		"latitude" : -12.603977000,
+		"longitude" : 13.401713000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 31,
+		"name" : "Chongorói",
+		"type" : "commune",
+		"latitude" : -13.578459000,
+		"longitude" : 13.940806000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 32,
+		"name" : "Balombo",
+		"type" : "commune",
+		"latitude" : -12.354261000,
+		"longitude" : 14.772315000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 32,
+		"name" : "Chingongo",
+		"type" : "commune",
+		"latitude" : -12.605849000,
+		"longitude" : 13.401826000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 32,
+		"name" : "Chindumbo",
+		"type" : "commune",
+		"latitude" : -11.935748000,
+		"longitude" : 14.400997000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 32,
+		"name" : "Maca mombolo",
+		"type" : "commune",
+		"latitude" : -12.586412000,
+		"longitude" : 13.413399000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 33,
+		"name" : "Passe",
+		"type" : "commune",
+		"latitude" : -12.604770000,
+		"longitude" : 13.399873000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 33,
+		"name" : "Chila",
+		"type" : "commune",
+		"latitude" : -12.071262000,
+		"longitude" : 14.486617000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 33,
+		"name" : "Bocoio",
+		"type" : "commune",
+		"latitude" : -12.469041000,
+		"longitude" : 14.137062000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 33,
+		"name" : "Cubal do lumbo",
+		"type" : "commune",
+		"latitude" : -12.604990000,
+		"longitude" : 13.399766000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 33,
+		"name" : "Monte belo",
+		"type" : "commune",
+		"latitude" : -12.418199000,
+		"longitude" : 14.394542000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 34,
+		"name" : "Ganda",
+		"type" : "commune",
+		"latitude" : -13.016667000,
+		"longitude" : 14.633333000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 34,
+		"name" : "Ebanga",
+		"type" : "commune",
+		"latitude" : -8.801761000,
+		"longitude" : 13.207574000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 34,
+		"name" : "Casseque",
+		"type" : "commune",
+		"latitude" : -12.587633000,
+		"longitude" : 13.392784000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 34,
+		"name" : "Chicuma",
+		"type" : "commune",
+		"latitude" : -13.433558000,
+		"longitude" : 14.871181000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 34,
+		"name" : "Babaera",
+		"type" : "commune",
+		"latitude" : -12.900000000,
+		"longitude" : 14.802806000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 35,
+		"name" : "Egito praia",
+		"type" : "commune",
+		"latitude" : -11.961610000,
+		"longitude" : 13.765032000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 35,
+		"name" : "Lobito",
+		"type" : "commune",
+		"latitude" : -12.350687000,
+		"longitude" : 13.546432000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 35,
+		"name" : "Canata",
+		"type" : "commune",
+		"latitude" : -12.362808000,
+		"longitude" : 13.554941000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 35,
+		"name" : "Canjala",
+		"type" : "commune",
+		"latitude" : -12.013748000,
+		"longitude" : 13.960106000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 36,
+		"name" : "Caungula",
+		"type" : "commune",
+		"latitude" : -8.432269000,
+		"longitude" : 18.632576000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 36,
+		"name" : "Camaxilo",
+		"type" : "commune",
+		"latitude" : -8.338566000,
+		"longitude" : 18.915784000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 37,
+		"name" : "Caluango",
+		"type" : "commune",
+		"latitude" : -7.980822000,
+		"longitude" : 19.630970000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 37,
+		"name" : "Cuilo",
+		"type" : "commune",
+		"latitude" : -8.236915000,
+		"longitude" : 19.524612000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 38,
+		"name" : "Dundo",
+		"type" : "district",
+		"latitude" : -7.381086000,
+		"longitude" : 20.833799000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 38,
+		"name" : "Luachimo",
+		"type" : "commune",
+		"latitude" : -7.363153000,
+		"longitude" : 20.843322000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 38,
+		"name" : "Chitato",
+		"type" : "commune",
+		"latitude" : -7.344690000,
+		"longitude" : 20.820081000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 38,
+		"name" : "Mussungue",
+		"type" : "district",
+		"latitude" : -8.864287000,
+		"longitude" : 13.205913000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 39,
+		"name" : "Luia",
+		"type" : "commune",
+		"latitude" : -8.429116000,
+		"longitude" : 21.708265000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 39,
+		"name" : "Canzar",
+		"type" : "commune",
+		"latitude" : -7.325623000,
+		"longitude" : 21.578776000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 39,
+		"name" : "Cachimo",
+		"type" : "commune",
+		"latitude" : -8.355135000,
+		"longitude" : 21.330914000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 39,
+		"name" : "Cambulo",
+		"type" : "commune",
+		"latitude" : -7.743263000,
+		"longitude" : 21.255401000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 40,
+		"name" : "Lubalo",
+		"type" : "commune",
+		"latitude" : -9.153130000,
+		"longitude" : 19.282558000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 40,
+		"name" : "Luangue",
+		"type" : "commune",
+		"latitude" : -9.499956000,
+		"longitude" : 19.614071000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 40,
+		"name" : "Muvuluege",
+		"type" : "commune",
+		"latitude" : -8.999957000,
+		"longitude" : 18.749157000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 42,
+		"name" : "Cuango",
+		"type" : "commune",
+		"latitude" : -9.147281000,
+		"longitude" : 18.043102000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 42,
+		"name" : "Luremo",
+		"type" : "commune",
+		"latitude" : -8.517215000,
+		"longitude" : 17.830381000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 43,
+		"name" : "Capenda camulemba",
+		"type" : "commune",
+		"latitude" : -9.419449000,
+		"longitude" : 18.433128000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 43,
+		"name" : "Xinge",
+		"type" : "commune",
+		"latitude" : -9.776465000,
+		"longitude" : 19.136350000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 44,
+		"name" : "Xá muteba",
+		"type" : "commune",
+		"latitude" : -9.156417000,
+		"longitude" : 17.795746000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 44,
+		"name" : "Cassanje calucala",
+		"type" : "commune",
+		"latitude" : -11.410980000,
+		"longitude" : 13.379698000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 44,
+		"name" : "Iongo",
+		"type" : "commune",
+		"latitude" : -9.206491000,
+		"longitude" : 17.747739000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 45,
+		"name" : "Xá cassau",
+		"type" : "commune",
+		"latitude" : -8.933282000,
+		"longitude" : 20.290689000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 45,
+		"name" : "Capaia",
+		"type" : "commune",
+		"latitude" : -8.336058000,
+		"longitude" : 20.216763000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 45,
+		"name" : "Lucapa",
+		"type" : "commune",
+		"latitude" : -8.419524000,
+		"longitude" : 20.741092000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 45,
+		"name" : "Camissombo",
+		"type" : "commune",
+		"latitude" : -8.153299000,
+		"longitude" : 20.657496000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 46,
+		"name" : "Sumba",
+		"type" : "commune",
+		"latitude" : -6.327672000,
+		"longitude" : 12.525329000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 46,
+		"name" : "Quêlo",
+		"type" : "commune",
+		"latitude" : -6.469785000,
+		"longitude" : 12.436227000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 46,
+		"name" : "Mangue grande",
+		"type" : "commune",
+		"latitude" : -6.203800000,
+		"longitude" : 12.740938000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 46,
+		"name" : "Pedra de feitiço",
+		"type" : "commune",
+		"latitude" : -6.127355000,
+		"longitude" : 12.683308000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 46,
+		"name" : "Soyo",
+		"type" : "commune",
+		"latitude" : -6.133377000,
+		"longitude" : 12.371757000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 47,
+		"name" : "Calambata",
+		"type" : "commune",
+		"latitude" : -6.817363000,
+		"longitude" : 12.507565000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 47,
+		"name" : "Luvo",
+		"type" : "commune",
+		"latitude" : -5.853763000,
+		"longitude" : 14.085200000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 47,
+		"name" : "Caluca",
+		"type" : "commune",
+		"latitude" : -6.766624000,
+		"longitude" : 14.165823000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 47,
+		"name" : "Madimba",
+		"type" : "commune",
+		"latitude" : -6.499156000,
+		"longitude" : 14.344690000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 47,
+		"name" : "Mbanza kongo",
+		"type" : "commune",
+		"latitude" : -6.267820000,
+		"longitude" : 14.241796000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 47,
+		"name" : "Quiende",
+		"type" : "commune",
+		"latitude" : -6.358447000,
+		"longitude" : 13.710029000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 48,
+		"name" : "Quinsimba",
+		"type" : "commune",
+		"latitude" : -6.817363000,
+		"longitude" : 12.507565000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 48,
+		"name" : "Tomboco",
+		"type" : "commune",
+		"latitude" : -6.803331000,
+		"longitude" : 13.329442000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 48,
+		"name" : "Quinzau",
+		"type" : "commune",
+		"latitude" : -6.866624000,
+		"longitude" : 12.749157000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 49,
+		"name" : "Quibala norte",
+		"type" : "commune",
+		"latitude" : -7.465734000,
+		"longitude" : 13.372142000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 49,
+		"name" : "Musserra",
+		"type" : "commune",
+		"latitude" : -7.615422000,
+		"longitude" : 13.035469000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 49,
+		"name" : "Nzeto",
+		"type" : "commune",
+		"latitude" : -7.231595000,
+		"longitude" : 12.868505000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 49,
+		"name" : "Quindeje",
+		"type" : "commune",
+		"latitude" : -7.149957000,
+		"longitude" : 13.632490000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 50,
+		"name" : "Serra da canda",
+		"type" : "commune",
+		"latitude" : -6.309679000,
+		"longitude" : 14.757490000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 50,
+		"name" : "Luvaca",
+		"type" : "commune",
+		"latitude" : -7.418193000,
+		"longitude" : 13.426652000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 50,
+		"name" : "Cuimba",
+		"type" : "commune",
+		"latitude" : -6.121964000,
+		"longitude" : 14.621793000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 50,
+		"name" : "Buela",
+		"type" : "commune",
+		"latitude" : -5.918059000,
+		"longitude" : 14.550392000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 51,
+		"name" : "Nóqui",
+		"type" : "commune",
+		"latitude" : -5.874397000,
+		"longitude" : 13.432387000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 51,
+		"name" : "Mpala",
+		"type" : "commune",
+		"latitude" : -6.817363000,
+		"longitude" : 12.507565000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 51,
+		"name" : "Lufico",
+		"type" : "commune",
+		"latitude" : -6.358879000,
+		"longitude" : 13.328998000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 52,
+		"name" : "Sombo",
+		"type" : "commune",
+		"latitude" : -8.744302000,
+		"longitude" : 20.984091000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 52,
+		"name" : "Mona quimbundo",
+		"type" : "commune",
+		"latitude" : -9.915391000,
+		"longitude" : 20.010985000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 52,
+		"name" : "Saurimo",
+		"type" : "commune",
+		"latitude" : -9.658930000,
+		"longitude" : 20.398112000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 53,
+		"name" : "Luma cassai",
+		"type" : "commune",
+		"latitude" : -11.084446000,
+		"longitude" : 19.512393000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 53,
+		"name" : "Cazage",
+		"type" : "commune",
+		"latitude" : -11.067677000,
+		"longitude" : 20.702441000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 53,
+		"name" : "Dala",
+		"type" : "commune",
+		"latitude" : -11.033333000,
+		"longitude" : 20.200000000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 54,
+		"name" : "Cacolo",
+		"type" : "commune",
+		"latitude" : -10.143686000,
+		"longitude" : 19.266008000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 54,
+		"name" : "Alto chicapa",
+		"type" : "commune",
+		"latitude" : -10.934190000,
+		"longitude" : 19.146843000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 54,
+		"name" : "Cucumbi",
+		"type" : "commune",
+		"latitude" : -10.280917000,
+		"longitude" : 19.049115000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 54,
+		"name" : "Xassengue",
+		"type" : "commune",
+		"latitude" : -10.458087000,
+		"longitude" : 18.531220000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 55,
+		"name" : "Cassai",
+		"type" : "commune",
+		"latitude" : -10.588423000,
+		"longitude" : 21.969613000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 55,
+		"name" : "Muriege",
+		"type" : "commune",
+		"latitude" : -9.990950000,
+		"longitude" : 21.235177000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 55,
+		"name" : "Muconda",
+		"type" : "commune",
+		"latitude" : -10.592362000,
+		"longitude" : 21.318045000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 55,
+		"name" : "Chiluage",
+		"type" : "commune",
+		"latitude" : -9.518833000,
+		"longitude" : 21.796698000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 57,
+		"name" : "Cachipoque",
+		"type" : "commune",
+		"latitude" : -11.929733000,
+		"longitude" : 19.345983000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 57,
+		"name" : "Lucusse",
+		"type" : "commune",
+		"latitude" : -12.525294000,
+		"longitude" : 20.819225000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 57,
+		"name" : "Luena",
+		"type" : "commune",
+		"latitude" : -11.779036000,
+		"longitude" : 19.912268000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 57,
+		"name" : "Muangai",
+		"type" : "commune",
+		"latitude" : -12.524938000,
+		"longitude" : 19.911492000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 59,
+		"name" : "Lumbala nguimbo",
+		"type" : "commune",
+		"latitude" : -14.103067000,
+		"longitude" : 21.425705000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 59,
+		"name" : "Chiume",
+		"type" : "commune",
+		"latitude" : -15.134038000,
+		"longitude" : 21.176363000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 59,
+		"name" : "Sessa",
+		"type" : "commune",
+		"latitude" : -13.911177000,
+		"longitude" : 20.797735000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 59,
+		"name" : "Lutembo",
+		"type" : "commune",
+		"latitude" : -13.486791000,
+		"longitude" : 21.374373000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 59,
+		"name" : "Mussuma",
+		"type" : "commune",
+		"latitude" : -14.200824000,
+		"longitude" : 21.910307000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 59,
+		"name" : "Luvuei",
+		"type" : "commune",
+		"latitude" : -13.084407000,
+		"longitude" : 21.139310000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 59,
+		"name" : "Ninda",
+		"type" : "commune",
+		"latitude" : -14.803987000,
+		"longitude" : 21.386026000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 60,
+		"name" : "Lago dilolo",
+		"type" : "commune",
+		"latitude" : -11.521871000,
+		"longitude" : 22.034229000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 60,
+		"name" : "Luacano",
+		"type" : "commune",
+		"latitude" : -11.210369000,
+		"longitude" : 21.654683000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 62,
+		"name" : "Léua",
+		"type" : "commune",
+		"latitude" : -11.654248000,
+		"longitude" : 20.444245000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 62,
+		"name" : "Liangongo",
+		"type" : "commune",
+		"latitude" : -11.770790000,
+		"longitude" : 20.404995000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 63,
+		"name" : "Muié",
+		"type" : "commune",
+		"latitude" : -14.355283000,
+		"longitude" : 20.415128000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 63,
+		"name" : "Cassamba",
+		"type" : "commune",
+		"latitude" : -13.135353000,
+		"longitude" : 20.299483000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 63,
+		"name" : "Cangombe",
+		"type" : "commune",
+		"latitude" : -14.436223000,
+		"longitude" : 20.034891000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 63,
+		"name" : "Tempué",
+		"type" : "commune",
+		"latitude" : -13.437741000,
+		"longitude" : 18.881483000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 63,
+		"name" : "Cangamba",
+		"type" : "commune",
+		"latitude" : -13.697862000,
+		"longitude" : 19.858349000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 64,
+		"name" : "Nana candundo",
+		"type" : "commune",
+		"latitude" : -11.518659000,
+		"longitude" : 23.021194000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 64,
+		"name" : "Caianda",
+		"type" : "commune",
+		"latitude" : -11.006217000,
+		"longitude" : 23.530745000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 64,
+		"name" : "Cazombo",
+		"type" : "commune",
+		"latitude" : -11.892105000,
+		"longitude" : 22.900101000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 64,
+		"name" : "Macondo",
+		"type" : "commune",
+		"latitude" : -12.583801000,
+		"longitude" : 23.757355000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 64,
+		"name" : "Lumbala caquengue",
+		"type" : "commune",
+		"latitude" : -14.106349000,
+		"longitude" : 21.438686000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 64,
+		"name" : "Lóvua",
+		"type" : "commune",
+		"latitude" : -11.554768000,
+		"longitude" : 23.550311000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 64,
+		"name" : "Calunda",
+		"type" : "commune",
+		"latitude" : -12.122127000,
+		"longitude" : 23.478770000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 65,
+		"name" : "Massabi",
+		"type" : "commune",
+		"latitude" : -4.990789000,
+		"longitude" : 12.061815000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 65,
+		"name" : "Dinge",
+		"type" : "commune",
+		"latitude" : -5.009401000,
+		"longitude" : 12.330093000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 65,
+		"name" : "Cacongo",
+		"type" : "commune",
+		"latitude" : -5.221487000,
+		"longitude" : 12.141308000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 66,
+		"name" : "Luali",
+		"type" : "commune",
+		"latitude" : -4.583290000,
+		"longitude" : 12.699157000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 66,
+		"name" : "Belize",
+		"type" : "commune",
+		"latitude" : -4.640124000,
+		"longitude" : 12.760490000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 66,
+		"name" : "Miconje",
+		"type" : "commune",
+		"latitude" : -4.555500000,
+		"longitude" : 12.776254000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 67,
+		"name" : "Necuto",
+		"type" : "commune",
+		"latitude" : -4.953302000,
+		"longitude" : 12.600900000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 67,
+		"name" : "Inhuca",
+		"type" : "commune",
+		"latitude" : -4.849957000,
+		"longitude" : 12.382490000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 67,
+		"name" : "Buco zau",
+		"type" : "commune",
+		"latitude" : -4.762166000,
+		"longitude" : 12.538877000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 68,
+		"name" : "Malembo",
+		"type" : "commune",
+		"latitude" : -5.370747000,
+		"longitude" : 12.210258000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 68,
+		"name" : "Cabinda",
+		"type" : "commune",
+		"latitude" : -5.557644000,
+		"longitude" : 12.191947000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 68,
+		"name" : "Tando zinze",
+		"type" : "commune",
+		"latitude" : -4.951654000,
+		"longitude" : 12.057870000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 69,
+		"name" : "Ngola",
+		"type" : "commune",
+		"latitude" : -14.227379000,
+		"longitude" : 14.240294000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 69,
+		"name" : "Calepi",
+		"type" : "commune",
+		"latitude" : -13.866624000,
+		"longitude" : 14.482490000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 69,
+		"name" : "Caluquembe",
+		"type" : "commune",
+		"latitude" : -13.787106000,
+		"longitude" : 14.688775000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 70,
+		"name" : "Gungue",
+		"type" : "commune",
+		"latitude" : -13.733659000,
+		"longitude" : 15.408718000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 70,
+		"name" : "Caconda",
+		"type" : "commune",
+		"latitude" : -13.738845000,
+		"longitude" : 15.061968000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 70,
+		"name" : "Uaba",
+		"type" : "commune",
+		"latitude" : -13.846322000,
+		"longitude" : 14.581514000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 70,
+		"name" : "Cusse",
+		"type" : "commune",
+		"latitude" : -13.516257000,
+		"longitude" : 15.172040000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 71,
+		"name" : "Chibia",
+		"type" : "commune",
+		"latitude" : -15.185332000,
+		"longitude" : 13.689893000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 71,
+		"name" : "Capunda cavilongo",
+		"type" : "commune",
+		"latitude" : -14.962509000,
+		"longitude" : 13.982540000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 71,
+		"name" : "Jau",
+		"type" : "commune",
+		"latitude" : -15.223205000,
+		"longitude" : 13.514711000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 71,
+		"name" : "Quihita",
+		"type" : "commune",
+		"latitude" : -15.379905000,
+		"longitude" : 13.964712000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 72,
+		"name" : "Chimbemba",
+		"type" : "commune",
+		"latitude" : -15.751893000,
+		"longitude" : 14.072456000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 72,
+		"name" : "Chiange",
+		"type" : "commune",
+		"latitude" : -15.733073000,
+		"longitude" : 13.890149000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 73,
+		"name" : "Capelongo",
+		"type" : "commune",
+		"latitude" : -14.465945000,
+		"longitude" : 16.291044000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 73,
+		"name" : "Matala",
+		"type" : "commune",
+		"latitude" : -14.738343000,
+		"longitude" : 15.028940000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 73,
+		"name" : "Mulondo",
+		"type" : "commune",
+		"latitude" : -15.643205000,
+		"longitude" : 15.196860000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 74,
+		"name" : "Huíla",
+		"type" : "commune",
+		"latitude" : -15.212861000,
+		"longitude" : 13.516132000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 74,
+		"name" : "Arimba",
+		"type" : "commune",
+		"latitude" : -14.969251000,
+		"longitude" : 13.610760000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 74,
+		"name" : "Lubango",
+		"type" : "commune",
+		"latitude" : -14.919562000,
+		"longitude" : 13.489751000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 74,
+		"name" : "Hoque",
+		"type" : "commune",
+		"latitude" : -14.661446000,
+		"longitude" : 13.899988000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 75,
+		"name" : "Dongo",
+		"type" : "commune",
+		"latitude" : -14.595246000,
+		"longitude" : 15.718681000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 75,
+		"name" : "Jamba",
+		"type" : "commune",
+		"latitude" : -14.690626000,
+		"longitude" : 16.030097000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 75,
+		"name" : "Cassinga",
+		"type" : "commune",
+		"latitude" : -15.123653000,
+		"longitude" : 16.072368000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 76,
+		"name" : "Quilengues",
+		"type" : "commune",
+		"latitude" : -14.075997000,
+		"longitude" : 14.074599000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 76,
+		"name" : "Dinde",
+		"type" : "commune",
+		"latitude" : -14.270494000,
+		"longitude" : 13.693540000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 76,
+		"name" : "Impulo",
+		"type" : "commune",
+		"latitude" : -13.575707000,
+		"longitude" : 13.597641000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 79,
+		"name" : "Cuvango",
+		"type" : "commune",
+		"latitude" : -14.465945000,
+		"longitude" : 16.291044000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 79,
+		"name" : "Vicungo",
+		"type" : "commune",
+		"latitude" : -13.783546000,
+		"longitude" : 16.446407000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 79,
+		"name" : "Galangue",
+		"type" : "commune",
+		"latitude" : -14.143233000,
+		"longitude" : 15.863570000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 80,
+		"name" : "Chipindo",
+		"type" : "commune",
+		"latitude" : -13.817835000,
+		"longitude" : 15.787866000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 80,
+		"name" : "Bambi",
+		"type" : "commune",
+		"latitude" : -14.902396000,
+		"longitude" : 13.511006000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 81,
+		"name" : "Viti vivali",
+		"type" : "commune",
+		"latitude" : -14.436659000,
+		"longitude" : 14.036869000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 81,
+		"name" : "Tchicuaqueia",
+		"type" : "commune",
+		"latitude" : -14.987189000,
+		"longitude" : 13.450280000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 81,
+		"name" : "Chituto",
+		"type" : "commune",
+		"latitude" : -15.066919000,
+		"longitude" : 13.433204000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 81,
+		"name" : "Cacula",
+		"type" : "commune",
+		"latitude" : -14.492777000,
+		"longitude" : 14.119069000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 82,
+		"name" : "Cutenda",
+		"type" : "commune",
+		"latitude" : -14.370904000,
+		"longitude" : 15.073299000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 82,
+		"name" : "Chicomba",
+		"type" : "commune",
+		"latitude" : -14.132924000,
+		"longitude" : 14.912938000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 83,
+		"name" : "Bengo",
+		"type" : "commune",
+		"latitude" : -8.233322000,
+		"longitude" : 15.888827000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 83,
+		"name" : "Caiongo",
+		"type" : "commune",
+		"latitude" : -7.630551000,
+		"longitude" : 16.081195000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 83,
+		"name" : "Cangola",
+		"type" : "commune",
+		"latitude" : -7.975971000,
+		"longitude" : 15.852400000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 85,
+		"name" : "Nova ambuíla",
+		"type" : "commune",
+		"latitude" : -7.442848000,
+		"longitude" : 14.646513000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 85,
+		"name" : "Quipedro",
+		"type" : "commune",
+		"latitude" : -7.887555000,
+		"longitude" : 14.511162000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 86,
+		"name" : "Icoca",
+		"type" : "commune",
+		"latitude" : -6.202085000,
+		"longitude" : 16.197235000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 86,
+		"name" : "Alto zaza",
+		"type" : "commune",
+		"latitude" : -8.814931000,
+		"longitude" : 13.231967000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 86,
+		"name" : "Quimbele",
+		"type" : "commune",
+		"latitude" : -6.524410000,
+		"longitude" : 16.214718000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 86,
+		"name" : "Cuango",
+		"type" : "commune",
+		"latitude" : -6.280008000,
+		"longitude" : 16.701077000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 87,
+		"name" : "Alfândega",
+		"type" : "commune",
+		"latitude" : -7.363614000,
+		"longitude" : 15.691660000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 87,
+		"name" : "Uamba",
+		"type" : "commune",
+		"latitude" : -7.319921000,
+		"longitude" : 16.167105000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 87,
+		"name" : "Sanza pombo",
+		"type" : "commune",
+		"latitude" : -7.309645000,
+		"longitude" : 15.997799000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 87,
+		"name" : "Cuilo pombo",
+		"type" : "commune",
+		"latitude" : -7.199957000,
+		"longitude" : 15.699157000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 88,
+		"name" : "Massau",
+		"type" : "commune",
+		"latitude" : -7.230148000,
+		"longitude" : 16.920991000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 88,
+		"name" : "Macolo",
+		"type" : "commune",
+		"latitude" : -7.092616000,
+		"longitude" : 16.672889000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 88,
+		"name" : "Milunga",
+		"type" : "commune",
+		"latitude" : -7.135574000,
+		"longitude" : 15.997685000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 88,
+		"name" : "Macocola",
+		"type" : "commune",
+		"latitude" : -7.000831000,
+		"longitude" : 16.149034000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 90,
+		"name" : "Cuilo camboso",
+		"type" : "commune",
+		"latitude" : -7.380987000,
+		"longitude" : 13.684843000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 90,
+		"name" : "Buenga sul",
+		"type" : "commune",
+		"latitude" : -6.949979000,
+		"longitude" : 15.857912000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 90,
+		"name" : "Nova esperança",
+		"type" : "commune",
+		"latitude" : -6.733028000,
+		"longitude" : 15.888038000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 91,
+		"name" : "Mucaba",
+		"type" : "commune",
+		"latitude" : -7.261861000,
+		"longitude" : 15.077598000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 91,
+		"name" : "Uando mucaba",
+		"type" : "commune",
+		"latitude" : -6.966497000,
+		"longitude" : 14.659893000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 92,
+		"name" : "Damba",
+		"type" : "commune",
+		"latitude" : -6.682944000,
+		"longitude" : 15.136179000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 92,
+		"name" : "Petecusso",
+		"type" : "commune",
+		"latitude" : -6.633290000,
+		"longitude" : 14.799157000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 92,
+		"name" : "Lêmboa",
+		"type" : "commune",
+		"latitude" : -6.849928000,
+		"longitude" : 14.919669000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 92,
+		"name" : "Camatambo",
+		"type" : "commune",
+		"latitude" : -6.507327000,
+		"longitude" : 15.308965000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 92,
+		"name" : "Nsosso",
+		"type" : "commune",
+		"latitude" : -6.885987000,
+		"longitude" : 14.608258000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 93,
+		"name" : "Sacandica",
+		"type" : "commune",
+		"latitude" : -6.056746000,
+		"longitude" : 15.795910000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 93,
+		"name" : "Cuilo futa",
+		"type" : "commune",
+		"latitude" : -6.427404000,
+		"longitude" : 15.722978000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 93,
+		"name" : "Béu",
+		"type" : "commune",
+		"latitude" : -6.231149000,
+		"longitude" : 15.465597000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 93,
+		"name" : "Quibocolo",
+		"type" : "commune",
+		"latitude" : -6.276281000,
+		"longitude" : 15.068540000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 93,
+		"name" : "Maquela do zombo",
+		"type" : "commune",
+		"latitude" : -6.060812000,
+		"longitude" : 15.107504000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 94,
+		"name" : "Quisseque",
+		"type" : "commune",
+		"latitude" : -7.883290000,
+		"longitude" : 15.199157000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 94,
+		"name" : "Dimuca",
+		"type" : "commune",
+		"latitude" : -7.602113000,
+		"longitude" : 15.027498000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 94,
+		"name" : "Negage",
+		"type" : "commune",
+		"latitude" : -7.763490000,
+		"longitude" : 15.268305000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 95,
+		"name" : "Quivuenga",
+		"type" : "commune",
+		"latitude" : -7.760615000,
+		"longitude" : 15.269957000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 95,
+		"name" : "Songo",
+		"type" : "commune",
+		"latitude" : -7.353013000,
+		"longitude" : 14.847362000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 96,
+		"name" : "Lucunga",
+		"type" : "commune",
+		"latitude" : -6.940401000,
+		"longitude" : 14.565459000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 96,
+		"name" : "Bembe",
+		"type" : "commune",
+		"latitude" : -7.051442000,
+		"longitude" : 13.993891000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 96,
+		"name" : "Mabaia",
+		"type" : "commune",
+		"latitude" : -7.453540000,
+		"longitude" : 13.331527000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 99,
+		"name" : "Ucuma",
+		"type" : "commune",
+		"latitude" : -12.897616000,
+		"longitude" : 15.221499000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 99,
+		"name" : "Cacoma",
+		"type" : "commune",
+		"latitude" : -12.569479000,
+		"longitude" : 15.066628000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 99,
+		"name" : "Mundundo",
+		"type" : "commune",
+		"latitude" : -12.773971000,
+		"longitude" : 15.744665000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 100,
+		"name" : "Ecunha",
+		"type" : "commune",
+		"latitude" : -12.525932000,
+		"longitude" : 15.345754000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 100,
+		"name" : "Quipeio",
+		"type" : "commune",
+		"latitude" : -12.433333000,
+		"longitude" : 15.516667000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 101,
+		"name" : "Cachiungo",
+		"type" : "commune",
+		"latitude" : -12.557656000,
+		"longitude" : 16.284753000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 101,
+		"name" : "Chinhama",
+		"type" : "commune",
+		"latitude" : -13.103456000,
+		"longitude" : 16.431738000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 101,
+		"name" : "Chiumbo",
+		"type" : "commune",
+		"latitude" : -12.476439000,
+		"longitude" : 16.118746000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 102,
+		"name" : "Chiaca",
+		"type" : "commune",
+		"latitude" : -12.694612000,
+		"longitude" : 14.788353000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 102,
+		"name" : "Chinjenje",
+		"type" : "commune",
+		"latitude" : -12.827318000,
+		"longitude" : 14.927414000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 103,
+		"name" : "Alto hama",
+		"type" : "commune",
+		"latitude" : -12.225163000,
+		"longitude" : 15.550916000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 103,
+		"name" : "Galanga",
+		"type" : "commune",
+		"latitude" : -12.062266000,
+		"longitude" : 15.138762000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 103,
+		"name" : "Londuimbali",
+		"type" : "commune",
+		"latitude" : -12.237615000,
+		"longitude" : 15.315218000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 103,
+		"name" : "Ussoque",
+		"type" : "commune",
+		"latitude" : -12.353158000,
+		"longitude" : 15.101460000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 103,
+		"name" : "Cumbira",
+		"type" : "commune",
+		"latitude" : -12.183333000,
+		"longitude" : 15.133333000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 104,
+		"name" : "Calenga",
+		"type" : "commune",
+		"latitude" : -12.933333000,
+		"longitude" : 15.333333000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 104,
+		"name" : "Cuima",
+		"type" : "commune",
+		"latitude" : -13.172096000,
+		"longitude" : 15.659154000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 104,
+		"name" : "Caála",
+		"type" : "commune",
+		"latitude" : -12.852500000,
+		"longitude" : 15.560556000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 104,
+		"name" : "Catata",
+		"type" : "commune",
+		"latitude" : -13.396524000,
+		"longitude" : 15.416133000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 105,
+		"name" : "Sambo",
+		"type" : "commune",
+		"latitude" : -13.060447000,
+		"longitude" : 16.121004000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 105,
+		"name" : "Chicala",
+		"type" : "commune",
+		"latitude" : -12.048466000,
+		"longitude" : 15.225036000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 105,
+		"name" : "Samboto",
+		"type" : "commune",
+		"latitude" : -13.282682000,
+		"longitude" : 16.127412000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 105,
+		"name" : "Mbave",
+		"type" : "commune",
+		"latitude" : -13.649957000,
+		"longitude" : 13.482490000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 106,
+		"name" : "Mungo",
+		"type" : "commune",
+		"latitude" : -11.837310000,
+		"longitude" : 16.220917000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 106,
+		"name" : "Cambuengo",
+		"type" : "commune",
+		"latitude" : -12.312518000,
+		"longitude" : 15.586187000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 107,
+		"name" : "Luvemba",
+		"type" : "commune",
+		"latitude" : -12.021898000,
+		"longitude" : 15.596021000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 107,
+		"name" : "Hengue",
+		"type" : "commune",
+		"latitude" : -12.773971000,
+		"longitude" : 15.744665000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 107,
+		"name" : "Bailundo",
+		"type" : "commune",
+		"latitude" : -12.192156000,
+		"longitude" : 15.860923000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 107,
+		"name" : "Bimbe",
+		"type" : "commune",
+		"latitude" : -11.819944000,
+		"longitude" : 15.829477000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 107,
+		"name" : "Lunge",
+		"type" : "commune",
+		"latitude" : -12.211306000,
+		"longitude" : 16.109648000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 108,
+		"name" : "Lépi",
+		"type" : "commune",
+		"latitude" : -12.870833000,
+		"longitude" : 15.398333000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 108,
+		"name" : "Chilata",
+		"type" : "commune",
+		"latitude" : -12.773971000,
+		"longitude" : 15.744665000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 108,
+		"name" : "Longonjo",
+		"type" : "commune",
+		"latitude" : -12.907039000,
+		"longitude" : 15.248612000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 108,
+		"name" : "Iava",
+		"type" : "commune",
+		"latitude" : -13.193056000,
+		"longitude" : 15.288333000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 109,
+		"name" : "Chipipa",
+		"type" : "commune",
+		"latitude" : -12.183333000,
+		"longitude" : 15.783333000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 109,
+		"name" : "Huambo",
+		"type" : "commune",
+		"latitude" : -12.776539000,
+		"longitude" : 15.732047000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 109,
+		"name" : "Calima",
+		"type" : "commune",
+		"latitude" : -12.523857000,
+		"longitude" : 15.205628000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 110,
+		"name" : "Oncócua",
+		"type" : "commune",
+		"latitude" : -16.656291000,
+		"longitude" : 13.423528000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 110,
+		"name" : "Chitado",
+		"type" : "commune",
+		"latitude" : -17.312829000,
+		"longitude" : 13.904578000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 111,
+		"name" : "Otchinjau",
+		"type" : "commune",
+		"latitude" : -16.506798000,
+		"longitude" : 13.920300000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 111,
+		"name" : "Cahama",
+		"type" : "commune",
+		"latitude" : -16.282792000,
+		"longitude" : 14.302510000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 112,
+		"name" : "Namacunde",
+		"type" : "commune",
+		"latitude" : -17.304887000,
+		"longitude" : 15.842209000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 112,
+		"name" : "Chiede",
+		"type" : "commune",
+		"latitude" : -17.173418000,
+		"longitude" : 15.991526000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 113,
+		"name" : "Tchomporo oximolo",
+		"type" : "commune",
+		"latitude" : -16.320895000,
+		"longitude" : 16.696453000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 113,
+		"name" : "Evale",
+		"type" : "commune",
+		"latitude" : -16.552663000,
+		"longitude" : 15.740215000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 113,
+		"name" : "Nehone cafima",
+		"type" : "commune",
+		"latitude" : -16.635122000,
+		"longitude" : 16.031801000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 113,
+		"name" : "Ondjiva",
+		"type" : "commune",
+		"latitude" : -17.070523000,
+		"longitude" : 15.728011000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 113,
+		"name" : "Môngwa",
+		"type" : "commune",
+		"latitude" : -16.726411000,
+		"longitude" : 15.351645000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 114,
+		"name" : "Cubati",
+		"type" : "commune",
+		"latitude" : -15.329643000,
+		"longitude" : 16.836172000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 114,
+		"name" : "Mupa",
+		"type" : "commune",
+		"latitude" : -16.180485000,
+		"longitude" : 15.745915000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 114,
+		"name" : "Mukolongodjo",
+		"type" : "commune",
+		"latitude" : -15.664521000,
+		"longitude" : 15.802409000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 114,
+		"name" : "Calonga",
+		"type" : "commune",
+		"latitude" : -15.425373000,
+		"longitude" : 15.653928000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 115,
+		"name" : "Humbe",
+		"type" : "commune",
+		"latitude" : -16.685788000,
+		"longitude" : 14.904860000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 115,
+		"name" : "Xangongo",
+		"type" : "commune",
+		"latitude" : -16.744264000,
+		"longitude" : 14.976369000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 115,
+		"name" : "Ombala yo mungu",
+		"type" : "commune",
+		"latitude" : -17.150543000,
+		"longitude" : 14.865754000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 115,
+		"name" : "Naulila",
+		"type" : "commune",
+		"latitude" : -17.205034000,
+		"longitude" : 14.678157000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 115,
+		"name" : "Mucope",
+		"type" : "commune",
+		"latitude" : -16.013370000,
+		"longitude" : 14.979705000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 116,
+		"name" : "Cainde",
+		"type" : "commune",
+		"latitude" : -15.498246000,
+		"longitude" : 13.368545000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 116,
+		"name" : "Virei",
+		"type" : "commune",
+		"latitude" : -15.724822000,
+		"longitude" : 12.948862000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 117,
+		"name" : "Mamué",
+		"type" : "commune",
+		"latitude" : -13.729311000,
+		"longitude" : 12.982669000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 117,
+		"name" : "Chingo",
+		"type" : "commune",
+		"latitude" : -14.194798000,
+		"longitude" : 12.804447000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 117,
+		"name" : "Camucuio",
+		"type" : "commune",
+		"latitude" : -14.114520000,
+		"longitude" : 13.242335000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 118,
+		"name" : "Baía dos tigres",
+		"type" : "commune",
+		"latitude" : -16.663263000,
+		"longitude" : 11.770462000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 118,
+		"name" : "Tômbwa",
+		"type" : "commune",
+		"latitude" : -15.802058000,
+		"longitude" : 11.854005000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 118,
+		"name" : "Iona",
+		"type" : "commune",
+		"latitude" : -16.917573000,
+		"longitude" : 12.603378000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 119,
+		"name" : "Bibala",
+		"type" : "commune",
+		"latitude" : -14.760877000,
+		"longitude" : 13.353624000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 119,
+		"name" : "Caitou",
+		"type" : "commune",
+		"latitude" : -14.480343000,
+		"longitude" : 13.081547000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 119,
+		"name" : "Lola",
+		"type" : "commune",
+		"latitude" : -14.304274000,
+		"longitude" : 13.604655000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 119,
+		"name" : "Capangombe",
+		"type" : "commune",
+		"latitude" : -14.956274000,
+		"longitude" : 12.976506000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 120,
+		"name" : "Moçâmedes",
+		"type" : "commune",
+		"latitude" : -15.195064000,
+		"longitude" : 12.145808000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 120,
+		"name" : "Bentiaba",
+		"type" : "commune",
+		"latitude" : -14.259353000,
+		"longitude" : 12.392453000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 120,
+		"name" : "Forte santa rita",
+		"type" : "commune",
+		"latitude" : -15.190623000,
+		"longitude" : 12.168394000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 120,
+		"name" : "Lucira",
+		"type" : "commune",
+		"latitude" : -13.865498000,
+		"longitude" : 12.524807000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 121,
+		"name" : "Cariango",
+		"type" : "commune",
+		"latitude" : -10.576943000,
+		"longitude" : 15.327752000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 121,
+		"name" : "Quibala",
+		"type" : "commune",
+		"latitude" : -10.732544000,
+		"longitude" : 14.980549000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 121,
+		"name" : "Lonhe",
+		"type" : "commune",
+		"latitude" : -10.937349000,
+		"longitude" : 13.932431000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 121,
+		"name" : "Dala cachibo",
+		"type" : "commune",
+		"latitude" : -10.464992000,
+		"longitude" : 14.612750000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 122,
+		"name" : "Assango",
+		"type" : "commune",
+		"latitude" : -11.291177000,
+		"longitude" : 14.454500000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 122,
+		"name" : "Gabela",
+		"type" : "commune",
+		"latitude" : -10.851470000,
+		"longitude" : 14.379927000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 123,
+		"name" : "Ebo",
+		"type" : "commune",
+		"latitude" : -11.048825000,
+		"longitude" : 14.718777000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 123,
+		"name" : "Quissanje",
+		"type" : "commune",
+		"latitude" : -11.030105000,
+		"longitude" : 14.785344000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 123,
+		"name" : "Condé",
+		"type" : "commune",
+		"latitude" : -10.846118000,
+		"longitude" : 14.675897000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 124,
+		"name" : "Quirimbo",
+		"type" : "commune",
+		"latitude" : -10.685790000,
+		"longitude" : 14.250268000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 124,
+		"name" : "Quilenda",
+		"type" : "commune",
+		"latitude" : -10.641448000,
+		"longitude" : 14.335822000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 125,
+		"name" : "Amboiva",
+		"type" : "commune",
+		"latitude" : -11.528720000,
+		"longitude" : 14.733590000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 125,
+		"name" : "Seles",
+		"type" : "commune",
+		"latitude" : -11.406568000,
+		"longitude" : 14.300632000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 125,
+		"name" : "Botera",
+		"type" : "commune",
+		"latitude" : -11.581874000,
+		"longitude" : 14.093243000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 126,
+		"name" : "Porto amboim",
+		"type" : "commune",
+		"latitude" : -10.727910000,
+		"longitude" : 13.757899000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 126,
+		"name" : "Capolo",
+		"type" : "commune",
+		"latitude" : -10.390672000,
+		"longitude" : 13.985742000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 127,
+		"name" : "Conda",
+		"type" : "commune",
+		"latitude" : -11.108618000,
+		"longitude" : 14.336210000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 127,
+		"name" : "Cunjo",
+		"type" : "commune",
+		"latitude" : -11.208848000,
+		"longitude" : 14.410653000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 128,
+		"name" : "Mussende",
+		"type" : "commune",
+		"latitude" : -10.511248000,
+		"longitude" : 16.013709000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 128,
+		"name" : "Quienha",
+		"type" : "commune",
+		"latitude" : -10.144149000,
+		"longitude" : 15.453386000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 128,
+		"name" : "São lucas",
+		"type" : "commune",
+		"latitude" : -10.943591000,
+		"longitude" : 16.119410000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 129,
+		"name" : "Pambangala",
+		"type" : "commune",
+		"latitude" : -11.707227000,
+		"longitude" : 15.233080000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 129,
+		"name" : "Dumbi",
+		"type" : "commune",
+		"latitude" : -11.382283000,
+		"longitude" : 15.462644000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 129,
+		"name" : "Atóme",
+		"type" : "commune",
+		"latitude" : -11.748541000,
+		"longitude" : 14.498057000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 129,
+		"name" : "Cassongue",
+		"type" : "commune",
+		"latitude" : -11.853294000,
+		"longitude" : 15.047555000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 130,
+		"name" : "Quicombo",
+		"type" : "commune",
+		"latitude" : -11.644246000,
+		"longitude" : 14.202022000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 130,
+		"name" : "Gangula",
+		"type" : "commune",
+		"latitude" : -11.005309000,
+		"longitude" : 13.912543000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 130,
+		"name" : "Gungo",
+		"type" : "commune",
+		"latitude" : -10.824502000,
+		"longitude" : 15.550359000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 130,
+		"name" : "Sumbe",
+		"type" : "commune",
+		"latitude" : -11.201937000,
+		"longitude" : 13.839685000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 131,
+		"name" : "Munenga",
+		"type" : "commune",
+		"latitude" : -10.027206000,
+		"longitude" : 14.632974000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 131,
+		"name" : "Quissongo",
+		"type" : "commune",
+		"latitude" : -10.036387000,
+		"longitude" : 15.081181000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 131,
+		"name" : "Calulo",
+		"type" : "commune",
+		"latitude" : -9.999944000,
+		"longitude" : 14.893545000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 131,
+		"name" : "Cabuta",
+		"type" : "commune",
+		"latitude" : -9.835565000,
+		"longitude" : 14.863429000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 132,
+		"name" : "Quissanga cunjo",
+		"type" : "commune",
+		"latitude" : -11.441643000,
+		"longitude" : 15.018097000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 132,
+		"name" : "Waku kungo",
+		"type" : "commune",
+		"latitude" : -11.363430000,
+		"longitude" : 15.120778000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 132,
+		"name" : "Sanga",
+		"type" : "commune",
+		"latitude" : -11.130750000,
+		"longitude" : 15.430293000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 133,
+		"name" : "Baixo longa",
+		"type" : "commune",
+		"latitude" : -15.713484000,
+		"longitude" : 18.639967000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 133,
+		"name" : "Cuito cuanavale",
+		"type" : "commune",
+		"latitude" : -15.163029000,
+		"longitude" : 19.172743000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 133,
+		"name" : "Longa",
+		"type" : "commune",
+		"latitude" : -14.605015000,
+		"longitude" : 18.478369000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 133,
+		"name" : "Lupire",
+		"type" : "commune",
+		"latitude" : -14.640543000,
+		"longitude" : 19.604249000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 134,
+		"name" : "Calai",
+		"type" : "commune",
+		"latitude" : -17.887897000,
+		"longitude" : 19.770253000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 134,
+		"name" : "Maué",
+		"type" : "commune",
+		"latitude" : -17.225594000,
+		"longitude" : 18.887228000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 134,
+		"name" : "Mavengue",
+		"type" : "commune",
+		"latitude" : -15.785908000,
+		"longitude" : 17.701508000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 135,
+		"name" : "Luiana",
+		"type" : "commune",
+		"latitude" : -17.294552000,
+		"longitude" : 22.522359000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 135,
+		"name" : "Rivungo",
+		"type" : "commune",
+		"latitude" : -16.328007000,
+		"longitude" : 22.024546000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 135,
+		"name" : "Xipundo",
+		"type" : "commune",
+		"latitude" : -15.785908000,
+		"longitude" : 17.701508000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 136,
+		"name" : "Caíla",
+		"type" : "commune",
+		"latitude" : -15.615578000,
+		"longitude" : 11.157759000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 136,
+		"name" : "Cuangar",
+		"type" : "commune",
+		"latitude" : -17.609769000,
+		"longitude" : 18.622329000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 136,
+		"name" : "Savate",
+		"type" : "commune",
+		"latitude" : -16.833397000,
+		"longitude" : 17.962066000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 137,
+		"name" : "Cunjamba",
+		"type" : "commune",
+		"latitude" : -15.371287000,
+		"longitude" : 20.139014000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 137,
+		"name" : "Cutuile",
+		"type" : "commune",
+		"latitude" : -15.327129000,
+		"longitude" : 20.328967000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 137,
+		"name" : "Luengue",
+		"type" : "commune",
+		"latitude" : -16.877408000,
+		"longitude" : 20.797033000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 137,
+		"name" : "Mavinga",
+		"type" : "commune",
+		"latitude" : -15.794399000,
+		"longitude" : 20.365671000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 138,
+		"name" : "Cueio",
+		"type" : "commune",
+		"latitude" : -15.428567000,
+		"longitude" : 17.979841000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 138,
+		"name" : "Missombo",
+		"type" : "commune",
+		"latitude" : -14.853579000,
+		"longitude" : 17.627616000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 138,
+		"name" : "Menongue",
+		"type" : "commune",
+		"latitude" : -14.661071000,
+		"longitude" : 17.682034000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 138,
+		"name" : "Caiundo",
+		"type" : "commune",
+		"latitude" : -15.701412000,
+		"longitude" : 17.459919000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 139,
+		"name" : "Rito",
+		"type" : "commune",
+		"latitude" : -16.689392000,
+		"longitude" : 19.083767000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 139,
+		"name" : "Nancova",
+		"type" : "commune",
+		"latitude" : -16.302147000,
+		"longitude" : 18.675630000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 140,
+		"name" : "Chinguanja",
+		"type" : "commune",
+		"latitude" : -15.049958000,
+		"longitude" : 16.932490000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 140,
+		"name" : "Vissati",
+		"type" : "commune",
+		"latitude" : -12.401347000,
+		"longitude" : 16.955902000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 140,
+		"name" : "Cutato",
+		"type" : "commune",
+		"latitude" : -14.371900000,
+		"longitude" : 16.494162000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 140,
+		"name" : "Cuchi",
+		"type" : "commune",
+		"latitude" : -14.651967000,
+		"longitude" : 16.893990000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 141,
+		"name" : "Mucusso",
+		"type" : "commune",
+		"latitude" : -18.021970000,
+		"longitude" : 21.426878000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 141,
+		"name" : "Dirico",
+		"type" : "commune",
+		"latitude" : -17.984978000,
+		"longitude" : 20.776815000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 141,
+		"name" : "Xamavera",
+		"type" : "commune",
+		"latitude" : -17.461986000,
+		"longitude" : 19.635810000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 142,
+		"name" : "Cutato",
+		"type" : "commune",
+		"latitude" : -12.179065000,
+		"longitude" : 16.467240000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 142,
+		"name" : "Cangote",
+		"type" : "commune",
+		"latitude" : -12.766372000,
+		"longitude" : 16.400452000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 142,
+		"name" : "Chinguar",
+		"type" : "commune",
+		"latitude" : -12.558853000,
+		"longitude" : 16.338378000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 143,
+		"name" : "Catabola",
+		"type" : "commune",
+		"latitude" : -12.142243000,
+		"longitude" : 17.285605000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 143,
+		"name" : "Chipeta",
+		"type" : "commune",
+		"latitude" : -12.261676000,
+		"longitude" : 17.127723000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 143,
+		"name" : "Caiuera",
+		"type" : "commune",
+		"latitude" : -12.162513000,
+		"longitude" : 17.193532000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 143,
+		"name" : "Sande",
+		"type" : "commune",
+		"latitude" : -12.427583000,
+		"longitude" : 15.255534000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 143,
+		"name" : "Chiuca",
+		"type" : "commune",
+		"latitude" : -11.497150000,
+		"longitude" : 18.550002000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 144,
+		"name" : "Caiei",
+		"type" : "commune",
+		"latitude" : -11.408351000,
+		"longitude" : 17.241840000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 144,
+		"name" : "Gamba",
+		"type" : "commune",
+		"latitude" : -11.751292000,
+		"longitude" : 17.110332000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 144,
+		"name" : "Lúbia",
+		"type" : "commune",
+		"latitude" : -11.021728000,
+		"longitude" : 17.095950000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 144,
+		"name" : "Nharêa",
+		"type" : "commune",
+		"latitude" : -11.475123000,
+		"longitude" : 16.964963000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 144,
+		"name" : "Dando",
+		"type" : "commune",
+		"latitude" : -11.245803000,
+		"longitude" : 17.414366000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 145,
+		"name" : "Luando",
+		"type" : "commune",
+		"latitude" : -11.620513000,
+		"longitude" : 18.467080000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 145,
+		"name" : "Sachinemuna",
+		"type" : "commune",
+		"latitude" : -11.679582000,
+		"longitude" : 17.649939000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 145,
+		"name" : "Munhango",
+		"type" : "commune",
+		"latitude" : -12.158460000,
+		"longitude" : 18.555496000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 145,
+		"name" : "Cuemba",
+		"type" : "commune",
+		"latitude" : -12.150000000,
+		"longitude" : 18.083333000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 146,
+		"name" : "Cachingues",
+		"type" : "commune",
+		"latitude" : -13.071047000,
+		"longitude" : 16.750649000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 146,
+		"name" : "Chitembo",
+		"type" : "commune",
+		"latitude" : -13.513927000,
+		"longitude" : 16.756659000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 146,
+		"name" : "Soma cuanza",
+		"type" : "commune",
+		"latitude" : -13.555356000,
+		"longitude" : 17.286161000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 146,
+		"name" : "Mumbué",
+		"type" : "commune",
+		"latitude" : -13.895736000,
+		"longitude" : 17.295822000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 146,
+		"name" : "Mutumbo",
+		"type" : "commune",
+		"latitude" : -13.181877000,
+		"longitude" : 17.395936000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 146,
+		"name" : "Malengue",
+		"type" : "commune",
+		"latitude" : -13.917067000,
+		"longitude" : 16.796649000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 147,
+		"name" : "Belo horizonte",
+		"type" : "commune",
+		"latitude" : -11.916576000,
+		"longitude" : 16.905655000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 147,
+		"name" : "Cunhinga",
+		"type" : "commune",
+		"latitude" : -12.233863000,
+		"longitude" : 16.781769000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 148,
+		"name" : "Umpulo",
+		"type" : "commune",
+		"latitude" : -12.704383000,
+		"longitude" : 17.689874000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 148,
+		"name" : "Camacupa",
+		"type" : "commune",
+		"latitude" : -12.020359000,
+		"longitude" : 17.476360000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 148,
+		"name" : "Ringoma",
+		"type" : "commune",
+		"latitude" : -12.399024000,
+		"longitude" : 17.543664000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 148,
+		"name" : "Muinha",
+		"type" : "commune",
+		"latitude" : -11.845230000,
+		"longitude" : 17.397736000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 148,
+		"name" : "Cuanza",
+		"type" : "commune",
+		"latitude" : -11.994428000,
+		"longitude" : 17.657235000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 149,
+		"name" : "Cambândua",
+		"type" : "commune",
+		"latitude" : -12.510325000,
+		"longitude" : 17.322714000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 149,
+		"name" : "Chicala",
+		"type" : "commune",
+		"latitude" : -12.804305000,
+		"longitude" : 17.059536000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 149,
+		"name" : "Cunje",
+		"type" : "commune",
+		"latitude" : -12.342639000,
+		"longitude" : 16.907572000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 149,
+		"name" : "Trumba",
+		"type" : "commune",
+		"latitude" : -12.216505000,
+		"longitude" : 16.826161000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 149,
+		"name" : "Cuito",
+		"type" : "commune",
+		"latitude" : -12.383132000,
+		"longitude" : 16.942548000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 150,
+		"name" : "Cassumbe",
+		"type" : "commune",
+		"latitude" : -11.141645000,
+		"longitude" : 16.600471000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 150,
+		"name" : "Chivaúlo",
+		"type" : "commune",
+		"latitude" : -11.669673000,
+		"longitude" : 16.287014000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 150,
+		"name" : "Andulo",
+		"type" : "commune",
+		"latitude" : -11.487218000,
+		"longitude" : 16.695905000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 150,
+		"name" : "Calucinga",
+		"type" : "commune",
+		"latitude" : -11.324856000,
+		"longitude" : 16.195135000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 151,
+		"name" : "Quimbango",
+		"type" : "commune",
+		"latitude" : -10.963840000,
+		"longitude" : 17.574688000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 151,
+		"name" : "Dombo wa zanga",
+		"type" : "commune",
+		"latitude" : -9.634322000,
+		"longitude" : 15.857858000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 151,
+		"name" : "Capunda",
+		"type" : "commune",
+		"latitude" : -10.677404000,
+		"longitude" : 17.367947000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 151,
+		"name" : "Rimba",
+		"type" : "commune",
+		"latitude" : -10.579035000,
+		"longitude" : 17.558599000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 151,
+		"name" : "Cunga palanga",
+		"type" : "commune",
+		"latitude" : -10.934292000,
+		"longitude" : 15.445894000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 151,
+		"name" : "Luquembo",
+		"type" : "commune",
+		"latitude" : -10.734865000,
+		"longitude" : 17.718408000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 152,
+		"name" : "Milando",
+		"type" : "commune",
+		"latitude" : -8.812943000,
+		"longitude" : 17.558916000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 152,
+		"name" : "Lemba",
+		"type" : "commune",
+		"latitude" : -8.808591000,
+		"longitude" : 14.670505000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 152,
+		"name" : "Kunda dya baze",
+		"type" : "commune",
+		"latitude" : -8.907523000,
+		"longitude" : 17.056052000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 153,
+		"name" : "Quihuhu",
+		"type" : "commune",
+		"latitude" : -7.749602000,
+		"longitude" : 16.592389000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 153,
+		"name" : "Massango",
+		"type" : "commune",
+		"latitude" : -8.033648000,
+		"longitude" : 16.343173000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 153,
+		"name" : "Quinguengue",
+		"type" : "commune",
+		"latitude" : -9.515106000,
+		"longitude" : 14.733088000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 154,
+		"name" : "Cota",
+		"type" : "commune",
+		"latitude" : -9.268199000,
+		"longitude" : 16.096988000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 154,
+		"name" : "Quinje",
+		"type" : "commune",
+		"latitude" : -9.083290000,
+		"longitude" : 15.665823000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 154,
+		"name" : "Cateco cangola",
+		"type" : "commune",
+		"latitude" : -8.468413000,
+		"longitude" : 15.822909000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 154,
+		"name" : "Calandula",
+		"type" : "commune",
+		"latitude" : -9.089470000,
+		"longitude" : 15.957092000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 154,
+		"name" : "Cuale",
+		"type" : "commune",
+		"latitude" : -8.367577000,
+		"longitude" : 16.141243000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 155,
+		"name" : "Cambaxe",
+		"type" : "commune",
+		"latitude" : -9.387173000,
+		"longitude" : 16.470249000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 155,
+		"name" : "Ngola luiji",
+		"type" : "commune",
+		"latitude" : -9.207887000,
+		"longitude" : 16.174140000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 155,
+		"name" : "Malanje",
+		"type" : "commune",
+		"latitude" : -9.548399000,
+		"longitude" : 16.347534000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 156,
+		"name" : "Tembo aluma",
+		"type" : "commune",
+		"latitude" : -7.718376000,
+		"longitude" : 17.271783000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 156,
+		"name" : "Marimba",
+		"type" : "commune",
+		"latitude" : -8.361099000,
+		"longitude" : 17.023876000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 156,
+		"name" : "Cabombo",
+		"type" : "commune",
+		"latitude" : -8.221020000,
+		"longitude" : 16.641624000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 157,
+		"name" : "Mufuma",
+		"type" : "commune",
+		"latitude" : -9.202747000,
+		"longitude" : 16.485343000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 157,
+		"name" : "Kiwaba nzoji",
+		"type" : "commune",
+		"latitude" : -9.247560000,
+		"longitude" : 15.924342000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 158,
+		"name" : "Muquixe",
+		"type" : "commune",
+		"latitude" : -9.554549000,
+		"longitude" : 16.349480000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 158,
+		"name" : "Caxinga",
+		"type" : "commune",
+		"latitude" : -9.549957000,
+		"longitude" : 16.999157000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 158,
+		"name" : "Caculama",
+		"type" : "commune",
+		"latitude" : -9.484768000,
+		"longitude" : 16.852523000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 158,
+		"name" : "Catala",
+		"type" : "commune",
+		"latitude" : -9.475267000,
+		"longitude" : 16.705949000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 159,
+		"name" : "Soqueco",
+		"type" : "commune",
+		"latitude" : -9.268062000,
+		"longitude" : 15.809863000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 159,
+		"name" : "Cacuso",
+		"type" : "commune",
+		"latitude" : -9.422028000,
+		"longitude" : 15.740673000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 159,
+		"name" : "Quizenga",
+		"type" : "commune",
+		"latitude" : -9.402850000,
+		"longitude" : 15.360561000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 159,
+		"name" : "Lombe",
+		"type" : "commune",
+		"latitude" : -9.521854000,
+		"longitude" : 16.012848000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 159,
+		"name" : "Pungu a ndongo",
+		"type" : "commune",
+		"latitude" : -9.650158000,
+		"longitude" : 15.577800000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 160,
+		"name" : "Cambo suinginge",
+		"type" : "commune",
+		"latitude" : -9.515106000,
+		"longitude" : 14.733088000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 160,
+		"name" : "Cahombo",
+		"type" : "commune",
+		"latitude" : -8.695388000,
+		"longitude" : 16.519571000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 160,
+		"name" : "Micanda",
+		"type" : "commune",
+		"latitude" : -8.516624000,
+		"longitude" : 16.349157000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 160,
+		"name" : "Mbanji ya ngola",
+		"type" : "commune",
+		"latitude" : -8.433290000,
+		"longitude" : 16.649157000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 161,
+		"name" : "Quela",
+		"type" : "commune",
+		"latitude" : -9.265699000,
+		"longitude" : 17.072865000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 161,
+		"name" : "Xandel",
+		"type" : "commune",
+		"latitude" : -9.386266000,
+		"longitude" : 17.189538000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 161,
+		"name" : "Moma",
+		"type" : "commune",
+		"latitude" : -10.353988000,
+		"longitude" : 17.496519000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 161,
+		"name" : "Bângalas",
+		"type" : "commune",
+		"latitude" : -9.159679000,
+		"longitude" : 17.412768000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 162,
+		"name" : "Quirima",
+		"type" : "commune",
+		"latitude" : -10.893922000,
+		"longitude" : 18.087115000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 162,
+		"name" : "Sautar",
+		"type" : "commune",
+		"latitude" : -11.183602000,
+		"longitude" : 18.441951000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 163,
+		"name" : "Caribo",
+		"type" : "commune",
+		"latitude" : -9.651642000,
+		"longitude" : 16.649157000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 163,
+		"name" : "Cangandala",
+		"type" : "commune",
+		"latitude" : -9.789636000,
+		"longitude" : 16.428814000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 163,
+		"name" : "Culamagia",
+		"type" : "commune",
+		"latitude" : -9.749957000,
+		"longitude" : 16.782490000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 163,
+		"name" : "Bembo",
+		"type" : "commune",
+		"latitude" : -10.238330000,
+		"longitude" : 16.913096000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 164,
+		"name" : "Quitapa",
+		"type" : "commune",
+		"latitude" : -10.301046000,
+		"longitude" : 18.199018000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 164,
+		"name" : "Cambundi catembo",
+		"type" : "commune",
+		"latitude" : -10.082481000,
+		"longitude" : 17.556812000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 164,
+		"name" : "Dumba cambango",
+		"type" : "commune",
+		"latitude" : -10.348616000,
+		"longitude" : 17.425336000
+	},
+	{
+		"id_user" : 1,
+		"idMunicipio" : 164,
+		"name" : "Talamungongo",
+		"type" : "commune",
+		"latitude" : -9.716624000,
+		"longitude" : 17.215823000
+	}
+]
